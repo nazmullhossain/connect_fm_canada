@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "198761826969",
+    "project_id": "connect-fm",
+    "storage_bucket": "connect-fm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198761826969:android:b8c0b46940083de33e8608",
+        "android_client_info": {
+          "package_name": "com.radio99.connectfm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198761826969-3c99di69h37hfp7uoehbcd4l1ccluiib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radio99.connectfm",
+            "certificate_hash": "8cb3e737fe17903319c7639279e8ed601ec18d6f"
+          }
+        },
+        {
+          "client_id": "198761826969-9svivdcheoj1k1vh5i2phm0vb3auvuas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAua3U1ZCN1-r1kH7ESwS81ePaHO9LIc8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198761826969-9svivdcheoj1k1vh5i2phm0vb3auvuas.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198761826969-9s6f7v1ggsc1qnfgjmcp55s40m7sgtc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ca.connectfm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

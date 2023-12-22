@@ -1,0 +1,62 @@
+name: connectfm
+description: Connect FM.
+
+publish_to: "none"
+
+version: 3.0.32+62
+
+environment:
+  sdk: ">=2.19.5 <3.0.0"
+
+dependencies:
+  carousel_slider:
+  tapped:
+  waveui: ^0.0.10+3
+  http:
+  html_unescape:
+  get_storage:
+  get:
+  assets_audio_player: ^3.0.6
+  fluentui_system_icons:
+  flutter_inappwebview:
+  geolocator:
+  geocoding:
+  sign_in_with_apple:
+  flutter_html:
+  intl:
+  device_info_plus:
+  cached_network_image:
+  flutter_radio_player: ^2.0.2
+  unique_identifier:
+  lazy_load_indexed_stack:
+  flutter:
+    sdk: flutter
+  google_sign_in: ^6.1.5
+  flutter_facebook_auth: ^6.0.2
+  firebase_auth:
+  webview_flutter:
+  firebase_core: ^2.18.0
+  url_launcher:
+  package_info_plus:
+  share:
+  simple_shadow:
+  social_login_buttons:
+  move_to_background:
+  crypto:
+  google_fonts: ^6.1.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icon/
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/connectfm.png"
+  remove_alpha_ios: true

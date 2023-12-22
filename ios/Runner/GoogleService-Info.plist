@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>198761826969-dqmi1pr3tps67l3tc1gqegkfvvsj6lba.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.198761826969-dqmi1pr3tps67l3tc1gqegkfvvsj6lba</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>198761826969-1recjveoqpvfijh8i77lbaob2nm3ple6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfnBPrRVVOSnqJxN_Kv-zkncIeTjAnpbo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>198761826969</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.radio99.connectfm</string>
+	<key>PROJECT_ID</key>
+	<string>connect-fm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>connect-fm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:198761826969:ios:abe192d3d4a974ae3e8608</string>
+</dict>
+</plist>

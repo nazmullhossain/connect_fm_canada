@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <string name="app_name">Connect FM Canada</string>
+    <string name="facebook_app_id">233137399477289</string>
+    <string name="fb_login_protocol_scheme">fb233137399477289</string>
+    <string name="facebook_client_token">838cf926681ed955003e497998f0ccd6</string> -->
+    <string name="app_name">Connect FM Canada</string>
+    <string name="facebook_app_id">848216243678556</string>
+    <string name="fb_login_protocol_scheme">fb848216243678556</string>
+    <string name="facebook_client_token">446010a864655a998abff70bbbc3cc3a</string>
+</resources>
