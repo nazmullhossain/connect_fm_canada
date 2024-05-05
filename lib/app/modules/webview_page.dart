@@ -23,7 +23,8 @@ class _WebviewPlainPageState extends State<WebviewPlainPage> {
       isLoading: isLoading,
       body: InAppWebView(
         initialUrlRequest: URLRequest(
-          url: Uri.parse(widget.link),
+
+          url: WebUri(widget.link),
         ),
         onLoadStart: (controller, url) => setState(() {
           isLoading = false;

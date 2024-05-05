@@ -6,12 +6,12 @@ publish_to: "none"
 version: 3.0.32+62
 
 environment:
-  sdk: ">=2.19.5 <3.0.0"
+  sdk: '>=3.4.0-282.3.beta <4.0.0'
 
 dependencies:
   carousel_slider:
   tapped:
-  waveui: ^0.0.10+3
+  waveui: 0.0.10+4
   http:
   html_unescape:
   get_storage:
@@ -44,6 +44,7 @@ dependencies:
   move_to_background:
   crypto:
   google_fonts: ^6.1.0
+#  fluttertoast:
 
 flutter:
   uses-material-design: true
