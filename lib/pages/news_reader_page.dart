@@ -54,6 +54,7 @@ class _NewsReaderPageState extends State<NewsReaderPage> {
                                 : "${newsController.news.value.titlePa}",
                             style: Get.textTheme.headlineMedium,
                           ),
+                          //
                           SizedBox(height: 8),
                           Text(
                             "By ${newsController.news.value.author}, ${formatTimestamp(newsController.news.value.postDate)}",
