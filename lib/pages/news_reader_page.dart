@@ -25,7 +25,7 @@ class _NewsReaderPageState extends State<NewsReaderPage> {
     super.initState();
     newsController.getNews(widget.slug, widget.isEntertainments);
   }
-
+//newscontroller
   @override
   Widget build(BuildContext context) {
     return Obx(() {
