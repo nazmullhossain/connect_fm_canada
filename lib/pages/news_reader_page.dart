@@ -5,7 +5,7 @@ import 'package:connectfm/app/modules/root/app_controller.dart';
 import 'package:connectfm/controllers/news_reader_controller.dart';
 import 'package:waveui/waveui.dart';
 import 'package:intl/date_symbol_data_local.dart';
-
+//a
 class NewsReaderPage extends StatefulWidget {
   final String slug;
   final bool isEntertainments;
