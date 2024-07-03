@@ -25,7 +25,7 @@ class _HomePageState extends State<HomePage> {
   void didChangeDependencies() {
     super.didChangeDependencies();
   }
-
+//fetch data
   Future<List<TitleModel>> fetchData() async {
     if (news.isEmpty) {
       final response =
