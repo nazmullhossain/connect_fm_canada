@@ -18,6 +18,7 @@ class _EntertainmentPageState extends State<EntertainmentPage> {
   List<TitleModel> bollywood = [];
   List<TitleModel> pollywood = [];
     List<TitleModel> pol = [];
+  //clear data
 
   var controller = EntertainmentController();
 
