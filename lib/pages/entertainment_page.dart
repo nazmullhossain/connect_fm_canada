@@ -132,4 +132,5 @@ class _EntertainmentPageState extends State<EntertainmentPage> {
 
 class EntertainmentController extends GetxController {
   var index = 0.obs;
+  var indexxx = 0.obs;
 }
