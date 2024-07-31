@@ -7,7 +7,7 @@ class SpecialView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Center(
-        child: Text('will be change'),
+        child: Text('will be'),
       ),
     );
   }
